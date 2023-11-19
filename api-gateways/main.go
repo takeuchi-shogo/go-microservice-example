@@ -1,4 +1,4 @@
-package apigateways
+package main
 
 import (
 	"net/http/httputil"
